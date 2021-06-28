@@ -1,5 +1,5 @@
 # Get JP word info
-Script gets a word info from https://dictionary.goo.ne.jp explanatory dictionary.
+Parser script that gets a word info from https://dictionary.goo.ne.jp explanatory dictionary.
 
 ## How to use ###
 ### To get a word info:
