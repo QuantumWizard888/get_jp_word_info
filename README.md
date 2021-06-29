@@ -1,7 +1,9 @@
 # Get JP word info
+
+## Description ##
 Parser script that gets a word info from https://dictionary.goo.ne.jp explanatory dictionary.
 
-## How to use ###
+## How to use ##
 ### To get a word info:
 ```
 python3 get_jp_word_info.py WORD
